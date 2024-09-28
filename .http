@@ -1,0 +1,7 @@
+###
+GET http://localhost:3000/posts?page=10
+Content-Type: text/html;charset=UTF-8
+
+###
+GET http://localhost:3000/posts/4
+Content-Type: text/html;charset=UTF-8
